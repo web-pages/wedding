@@ -263,7 +263,7 @@ h4.inline, h5.inline, h6.inline{
 
 p{
 	font-family: 'Arvo', serif;
-	font-size:15px;
+	font-size:17px;
 	line-height:26px;
 	margin-bottom:25px;
 }
@@ -419,7 +419,7 @@ img.with-border{
 	margin:0;
 	padding:45px 0 0 0;
 	font-family: 'Oswald', sans-serif;
-	font-size:13px;
+	font-size:18px;
 	z-index:1000;
 }
 
@@ -479,7 +479,7 @@ img.with-border{
   	font-family: "fontello";
   	font-style: normal;
   	font-weight: normal;
-  	font-size:10px;
+  	font-size:18px;
 	content: '\e9bd';
 	color:#f0394d;
 	text-align:center;
